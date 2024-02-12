@@ -174,7 +174,7 @@ export const experiences = [
     company_name: "Stat Health (Healthcare Startup)",
     icon: stat,
     iconBg: "#ffffff",
-    date: "July 2022 - August 2022",
+    date: "June 2022 - August 2022",
     points: [
       // "Developing and maintaining web applications using React.js and other related technologies.",
       // "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
